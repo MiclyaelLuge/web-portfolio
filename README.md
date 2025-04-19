@@ -21,4 +21,4 @@ MIT License © 2025 [Your Name]
 
 ## Acknowledgements
 
-This portfolio was made using a template by [codewithsadee](https://github.com/codewithsadee). Thanks for the great work!
+This portfolio was made using a template based on [vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) by [codewithsadee](https://github.com/codewithsadee). Thanks for the great work!
